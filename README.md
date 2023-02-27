@@ -12,12 +12,14 @@ This includes the html with added semantic elements, and updated CSS code which 
 This website can be used to find information on search engine optimization, online reputation managment, and social media marketing. 
 
 ## Link
-Below is the link to the live site 
+
+Here is the link to the live site 
 https://mvincent15.github.io/Module-1-Challenge/
 
 ## Credits
 
-N/A
+Starter code taken from the following github repo: 
+https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
