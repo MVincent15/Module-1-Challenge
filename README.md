@@ -11,10 +11,13 @@ This includes the html with added semantic elements, and updated CSS code which 
 ## Usage
 This website can be used to find information on search engine optimization, online reputation managment, and social media marketing. 
 
+##Link
+
+
 ## Credits
 
 N/A
 
 ## License
 
-N/A
+Please refer to the LICENSE in the repo.
