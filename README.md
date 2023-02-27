@@ -18,7 +18,7 @@ https://mvincent15.github.io/Module-1-Challenge/
 
 ## Credits
 
-Starter code taken from the following github repo: 
+Starter code taken from the following github repo as directed by Module-1-Assignment: 
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
